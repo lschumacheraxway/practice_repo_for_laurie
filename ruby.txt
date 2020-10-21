@@ -1,5 +1,6 @@
-ruby loves cft
+ruby loves cft does cft love ruby
 #1
 | testing
 adding green 
 adding yellow and blue
+adding an image, not
