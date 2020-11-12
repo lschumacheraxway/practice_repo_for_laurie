@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="A4" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="landscape" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="-0.1770833in" Right="5.114583in" Bottom="47px" Width="440px" Height="572px">
+        </Frame>
+        <Frame X="-6px" Y="578px" Width="948px" Height="68px" Flow="footer" Right="-11px" Bottom="-44px" Anchors="Left,Right,Bottom" TextAlign="center" VerticalAlign="top" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#d0d3d5" PaddingTop="30px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 331px;" />
+                            <xhtml:col xhtml:style="width: 1279px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-text" MadCap:autonum="•"><MadCap:variable xhtml:name="General.UserGuideTitle" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-text2"><MadCap:variable xhtml:name="General.Manual type" /> </xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-page-number"><MadCap:variable xhtml:name="System.PageNumber" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="5.1875in" Y="-0.1875in" Right="-0.0625in" Bottom="336px" Width="439px" Height="284px" FlowIndex="1" BackgroundColor="#076685" BackgroundType="Solid">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:div xhtml:class="InstructortNote">
+                            <xhtml:p xhtml:class="note">Instructor Notes</xhtml:p>
+                            <xhtml:ol>
+                                <xhtml:li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur accumsan enim, et vehicula arcu dapibus et. </xhtml:li>
+                                <xhtml:li>Aenean posuere urna in aliquam ullamcorper. Maecenas placerat ex non sagittis semper.</xhtml:li>
+                                <xhtml:li>Curabitur blandit, velit non molestie pharetra, ante eros mattis nulla, at eleifend justo mauris vel augue.</xhtml:li>
+                                <xhtml:li>Suspendisse ornare erat nunc, et blandit erat porttitor ac.</xhtml:li>
+                                <xhtml:li>Vestibulum nec lectus nunc. Curabitur condimentum lobortis nulla at elementum. </xhtml:li>
+                            </xhtml:ol>
+                        </xhtml:div>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="5.208333in" Y="3.010417in" Right="-0.09375in" Bottom="48px" Width="440px" Height="265px" FlowIndex="2" BackgroundColor="#cde0e7" BackgroundType="Solid">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:div xhtml:class="InstructortNote">
+                            <xhtml:p xhtml:class="note">Instructor Notes</xhtml:p>
+                            <xhtml:ol>
+                                <xhtml:li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consectetur accumsan enim, et vehicula arcu dapibus et. </xhtml:li>
+                                <xhtml:li>Aenean posuere urna in aliquam ullamcorper. Maecenas placerat ex non sagittis semper.</xhtml:li>
+                                <xhtml:li>Curabitur blandit, velit non molestie pharetra, ante eros mattis nulla, at eleifend justo mauris vel augue.</xhtml:li>
+                                <xhtml:li>Suspendisse ornare erat nunc, et blandit erat porttitor ac.</xhtml:li>
+                                <xhtml:li>Vestibulum nec lectus nunc. Curabitur condimentum lobortis nulla at elementum. </xhtml:li>
+                            </xhtml:ol>
+                        </xhtml:div>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

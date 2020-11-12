@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/NoteIcons/lightbulb-black.png" />
+    <Url Source="Resources/Images/NoteIcons/warning-black.png" />
+    <Url Source="Resources/Images/NoteIcons/check-black.png" />
+    <Url Source="Resources/Images/NoteIcons/discussion-black.png" />
+    <Url Source="Resources/Images/NoteIcons/assignment-white.png" />
+    <Url Source="Resources/Images/NoteIcons/assignment-black.png" />
+    <Url Source="Resources/Images/placeholder-logo.png" />
+    <Url Source="Resources/Images/NoteIcons/assignment-white.png" />
+    <Url Source="Resources/Images/NoteIcons/discussion-black.png" />
+</UrlList>

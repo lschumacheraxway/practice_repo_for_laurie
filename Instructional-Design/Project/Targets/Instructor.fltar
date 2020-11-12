@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Instructor Manual"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[General.Instructor] exclude[General.Student] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterToc="/Project/TOCs/Instructor Manual.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <DocumentProperties
+    Title="Instructor Manual"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="General/Manual type">Instructor</Variable>
+  </Variables>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>

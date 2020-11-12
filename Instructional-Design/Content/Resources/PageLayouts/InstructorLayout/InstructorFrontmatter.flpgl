@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title" Name="Title" Orientation="landscape" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" BackgroundColor="#cde0e7" BackgroundType="Solid">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="653px" Height="345px" X="251px" Y="-66px" Anchors="Left,Right,Top,Bottom" Right="27px" Bottom="323px">
+        </Frame>
+        <Frame X="-97px" Y="560px" Width="1125px" Height="140px" Flow="footer" Right="-97px" Bottom="-98px" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#d0d3d5" Anchors="" BackgroundType="Solid" BackgroundColor="#076685">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="214px" Y="602px" Width="215px" Height="50px" Flow="decoration1" Right="502px" Bottom="-50px" BackgroundImage="../../Images/placeholder-logo.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-97px" Y="-97px" Width="250px" Height="800px" Right="778px" Bottom="-101px" BackgroundImage="../../Images/image-cover.png" BackgroundRepeat="stretch" Anchors="" Flow="decoration0" />
+    </Page>
+</PageStyles>

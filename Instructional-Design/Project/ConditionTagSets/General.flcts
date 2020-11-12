@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="">
+  <ConditionTag
+    Comment=""
+    Name="Instructor"
+    BackgroundColor="#cde0e7" />
+  <ConditionTag
+    BackgroundColor="#076685"
+    Name="Student"
+    Comment=""
+    Color="Normal"
+    OriginalName="Online" />
+</CatapultConditionTagSet>
